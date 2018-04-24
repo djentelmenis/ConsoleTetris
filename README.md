@@ -1,4 +1,4 @@
-#ConsoleTetris
+# ConsoleTetris
 
 A C++ console version of Tetris
 Created with the help of this tutorial:

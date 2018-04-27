@@ -10,4 +10,5 @@ https://i.imgur.com/iodOGoR.jpg)
 # ToDo
 * added some sounds using SDL2;
 * redesign the user input to choose a new game or quit;
-* covert project to SDL2
+* convert project to SDL2
+* create assets and restructure the project
